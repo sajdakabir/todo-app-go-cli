@@ -8,4 +8,5 @@
 - ./todo -del=[index]  ---> it's delete the task
 
 
-## Made with ♥ By [Sajda Kabir](https://www.linkedin.com/in/sajdakabir)
+Thanks,
+Sajda
