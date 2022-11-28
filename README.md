@@ -8,7 +8,12 @@
 ```
  ./todo -list  
 ```
-- ./todo -add [task name] --->add the tase to the todo list
+#### Add the tase to the todo list
+
+```
+ ./todo -add [task name] 
+```
+
 - ./todo -complete=[index] ---> it's mark the task as a complete 
 - ./todo -del=[index]  ---> it's delete the task
 
