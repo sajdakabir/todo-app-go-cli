@@ -8,18 +8,21 @@
 ```
  ./todo -list  
 ```
-#### Add the tase to the todo list
+#### Add the task to the todo list
 
 ```
  ./todo -add [task name] 
 ```
+#### To mark the task as a complete 
 
-- ./todo -complete=[index] ---> it's mark the task as a complete 
-- ./todo -del=[index]  ---> it's delete the task
+```
+ ./todo -complete=[index]
+```
+#### To delete the task 
 
-
-
-
+```
+ ./todo -del=[index]
+```
 
 Thanks,
 
