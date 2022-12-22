@@ -1,7 +1,7 @@
 # It's a simple CLI Todo app in GO 
 
 
-## commands:
+### commands:
 
 #### list all the todo list
 
